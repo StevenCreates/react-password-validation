@@ -1,5 +1,9 @@
 # react-password-validation
 
+## About
+
+This repo includes a custom react hook for password validation. Using nothing but vanilla react and javaScript.
+
 ## Includes the following password validtion:
 
 - Minimum Character Validation
