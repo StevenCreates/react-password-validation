@@ -22,7 +22,7 @@ This repo includes a custom react hook for password validation. Using nothing bu
 ### Resources
 
 - Article/Guide
-- Coming Soon
+- https://medium.com/@steven_creates/creating-a-custom-react-hook-for-password-validation-46fc421c16ee
 
 ### Find Me
 
