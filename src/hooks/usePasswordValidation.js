@@ -13,9 +13,9 @@ export const usePasswordValidation = ({
 
   useEffect(() => {
     setValidLength(firstPassword.length >= 8 ? true : false);
-    setHasNumber(/\d/.test(firstPassword));
     setUpperCase(firstPassword.toLowerCase() !== firstPassword);
     setLowerCase(firstPassword.toUpperCase() !== firstPassword);
+    setHasNumber(/\d/.test(firstPassword));
     setMatch(firstPassword && firstPassword === secondPassword);
     setSpecialChar(/[ `!@#$%^&*()_+\-=\]{};':"\\|,.<>?~]/.test(firstPassword));
   }, [firstPassword, secondPassword]);
