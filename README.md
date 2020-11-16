@@ -1,5 +1,14 @@
 # react-password-validation
 
+## Includes the following password validtion:
+
+- Minimum Character Validation
+- Includes a number
+- UpperCase
+- LowerCase
+- Includes Special Character
+- Passwords Match
+
 ## Simple to get started
 
 - Follow Me
@@ -17,4 +26,4 @@
 - Medium: https://medium.com/@steven_creates
 - GitHub: https://github.com/StevenCreates
 
-###If you end up cloning this more than once please star it
+### If you end up cloning this more than once please star it
