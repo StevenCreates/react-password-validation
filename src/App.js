@@ -18,7 +18,7 @@ function App() {
     firstPassword: password.firstPassword,
     secondPassword: password.secondPassword,
     requiredLength: 10,
-    lengthValidation: false,
+    numberValidation: false,
   });
 
   const setFirst = (event) => {
