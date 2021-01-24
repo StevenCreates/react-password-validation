@@ -2,7 +2,10 @@
 
 ## About
 
-This repo includes a custom react hook for password validation. Using nothing but vanilla react and javaScript.
+The following code is a custom react hook that is used to validate passwords.
+Feel free to clone and use :) 
+
+I love creating these easy to use code examples. If you could star my repo or give my medium article a clap it really helps me out.
 
 ## Includes the following password validtion:
 
